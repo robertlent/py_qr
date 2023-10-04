@@ -1,6 +1,6 @@
 # Py-QR
 
-  [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/MIT)
+  [![License](https://img.shields.io/static/v1?label=License&message=GPL-3-0&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/GPL-3-0)
 
 
 ## Table Of Content
@@ -54,6 +54,6 @@ Py-QR is built with the following tools and libraries: <ul><li>Python</li></ul>
 
 ## License
 
-[![License](https://img.shields.io/static/v1?label=Licence&message=MIT&color=blue)](https://opensource.org/license/MIT)
+[![License](https://img.shields.io/static/v1?label=Licence&message=GPL-3-0&color=blue)](https://opensource.org/license/GPL-3-0)
 
 
